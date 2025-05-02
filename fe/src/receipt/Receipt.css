@@ -1,0 +1,36 @@
+.receipt-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: white;
+    position: relative;
+    cursor:pointer
+  }
+  
+  .receipt-message-box {
+    background-color: #065f69; /* 어두운 청록색 */
+    color: white;
+    text-align: center;
+    padding: 100px 30px;
+    border-radius: 10px;
+    font-size:50px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .receipt-touch-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #065f69;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .receipt-touch-button:hover {
+    background-color: #f0f0f0;
+  }
+  

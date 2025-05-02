@@ -1,0 +1,45 @@
+.product-list-container {
+    width: 90%;
+    margin: 30px auto;
+    font-family: sans-serif;
+  }
+  
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .product-table th,
+  .product-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .product-table th {
+    background-color: #f9f9f9;
+  }
+  
+  .thumbnail {
+    width: 50px;
+    height: auto;
+  }
+  
+  .btn-container {
+    text-align: right;
+    margin-top: 15px;
+  }
+  
+  .register-btn {
+    padding: 8px 16px;
+    background-color: #00bcd4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .register-btn:hover {
+    background-color: #0097a7;
+  }
+  
