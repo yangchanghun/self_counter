@@ -119,7 +119,7 @@ function Cart() {
       />
       <div className="box-frame">
       <div className="inner-box">
-            <CartList form = {form}/>    
+        <CartList form={form} setForm={setForm} /> 
         </div>    
         </div>
 
