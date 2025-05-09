@@ -52,11 +52,8 @@ api/receipt/   => receipt app
 
 메인페이지/QR상품스캔페이지
 ![1번](https://github.com/user-attachments/assets/2f14a515-b21c-431e-89b9-599b706defee)
-상품리스트페이지
-![상품리스트](https://github.com/user-attachments/assets/3b47c679-7e9b-47d3-8b66-1a4b10154c93)
-위 리스트에 나와있는 QR을 스캔하여 상품을 장바구니에 담습니다.
-![qr스캔후](https://github.com/user-attachments/assets/a377325c-25b5-42bb-96db-3d59ccbec83d)
-
+상품리스트페이지 QR스캔후 QR상품스캔페이지
+![3번](https://github.com/user-attachments/assets/65ce4d36-b0e7-47d5-8be0-c69621bb2bfc)
 결제진행모달페이지    결제가 완료페이지( 구매완료 음성과 영수증이 출력됩니다(미구현))
 ![2번](https://github.com/user-attachments/assets/11ab492d-0977-42f1-973a-b8c7609f31b5)
 
