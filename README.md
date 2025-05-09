@@ -57,6 +57,7 @@ api/receipt/   => receipt app
 위 리스트에 나와있는 QR을 스캔하여 상품을 장바구니에 담습니다.
 ![qr스캔후](https://github.com/user-attachments/assets/a377325c-25b5-42bb-96db-3d59ccbec83d)
 
-결제가 완료되면 구매완료 음성과 영수증이 출력됩니다(미구현)
-![영수증포함](https://github.com/user-attachments/assets/8537874c-bf7e-4e7a-8403-c394c26674e9)
+결제진행모달페이지    결제가 완료페이지( 구매완료 음성과 영수증이 출력됩니다(미구현))
+![2번](https://github.com/user-attachments/assets/11ab492d-0977-42f1-973a-b8c7609f31b5)
+
 
