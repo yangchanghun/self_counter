@@ -22,3 +22,21 @@ $ cd fe
 $ npm run start
 
 ### 주요기능
+
+localhost:3000/product/list => 상품등록된 상품 및 QR 리스트
+localhost:3000 => 셀프계산시작
+localhost:3000/cart/ => 상품QR을 스캔해주세요
+=> 상품구매완료 영수증(미구현)
+
+api/product/    =>product app
+register/
+list/
+search/
+detail/
+category/register/
+category/list/
+category/delete/
+category/update/
+
+api/receipt/   => receipt app
+
