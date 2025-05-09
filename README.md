@@ -27,7 +27,7 @@ $ python manage.py runserver
 ```bash
 $ cd fe
 
-# npm install
+$ npm install
 
 $ npm run start
 ```
