@@ -3,9 +3,19 @@
 ## 사용법
 
 ```bash
-$ git clone
+$ git clone <주소>
 
 $ cd be
+
+conda 있으면
+$ conda create -n <이름> python=3.10
+$ conda activate <이름>
+
+없으면
+$ python -m venv <이름>
+$ source <이름>/bin/activate  # mac
+$ source <이름>\Scripts\activate  # window
+
 
 # 가상환경 사용시 activate
 
