@@ -20,7 +20,7 @@ $ cd fe
 # npm install
 
 $ npm run start
-
+```
 ### 주요기능
 
 localhost:3000/product/list => 상품등록된 상품 및 QR 리스트
