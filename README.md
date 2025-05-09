@@ -49,4 +49,5 @@ category/delete/
 category/update/
 
 api/receipt/   => receipt app
+![1번](https://github.com/user-attachments/assets/2f14a515-b21c-431e-89b9-599b706defee)
 
